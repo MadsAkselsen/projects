@@ -8,3 +8,5 @@ Overview of my projects
 [Nextjs projects](https://github.com/MadsAkselsen/nextjs-projects)
 
 [Golang projects](https://github.com/MadsAkselsen/Go-Projects)
+
+[Linux projects](https://github.com/MadsAkselsen/linux-projects)
